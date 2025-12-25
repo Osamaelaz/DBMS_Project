@@ -1,0 +1,5 @@
+id,INT,PK
+name,TEXT
+gender,CHAR
+DOB,DATE
+salary,FLOAT
